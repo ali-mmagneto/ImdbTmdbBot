@@ -1,0 +1,5 @@
+pyrogram
+TgCrypto
+PyMovieDb
+googletrans==3.1.0a0
+pillow
