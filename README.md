@@ -7,3 +7,6 @@ Imdb ve Tmdb'den film bilgileri getiren Türkçe bot.
 /tmdb >>> Tmdb'den veri getirir. 
 
 /imdb >>> Imdb'den veri getirir.
+
+# Coded by [:d](https://t.me/mmagneto)
+[:d](https://t.me/mmagneto)
